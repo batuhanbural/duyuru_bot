@@ -1,0 +1,33 @@
+{
+  "804304987257045013": {
+    "sign_up_data": {
+      "0": "ad",
+      "1": "soyad",
+      "2": "okul"
+    },
+    "channel_data": {
+      "main_channel": 819537144237785128,
+      "data_channel": 824980949330165780
+    },
+    "role_data": {
+      "bot_role": "Botlar",
+      "member_role": "Münazır"
+    }
+  },
+  "797911002989330543": {
+    "sign_up_data": {
+      "0": "ad",
+      "1": "soyad",
+      "2": "okul",
+      "3": "sınıf"
+    },
+    "channel_data": {
+      "main_channel": 803575626568171581,
+      "data_channel": 798094276117659668
+    },
+    "role_data": {
+      "bot_role": "Botlar",
+      "member_role": "Sap"
+    }
+  }
+}
